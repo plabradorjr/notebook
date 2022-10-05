@@ -1,0 +1,36 @@
+#nav-text {
+    font-family: VT323;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 24px;
+    color: #2BD37E;
+}
+
+#nav-text:hover {
+    color: #e056fd;
+}
+
+#_nav-link {
+    font-family: VT323;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+
+    padding-top: 1rem;
+    padding-right: 1rem;
+}
+
+#_nav-link:hover {
+    color: #e056fd;
+}
+
+#nav-box {
+    background-color: #130f40;
+}
+
+._dark-nav {
+    background-color: #192734;
+}
