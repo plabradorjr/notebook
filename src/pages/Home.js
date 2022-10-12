@@ -24,7 +24,7 @@ export default class Home extends Component {
           </div>
           {/* Buy now call to action button */}
           <div className="row justify-content-center">
-            <div className="col-4 justify-content-center mt-3 mb-5">
+            <div className="col-sm-4 justify-content-center mt-3 mb-5">
               <a
                 href="https://buy.howtolivewithahugepenis.com/products/how-to-live-with-a-huge-penis-notebook"
                 rel="noreferrer"
@@ -58,12 +58,13 @@ export default class Home extends Component {
               <p className="_h1 ">Proof of Huge Weenis</p>
               <p>Introducing SudoCumRocket 💦🚀-{">"}🌙</p>
               <p>
-                You get 1 free NFT with every purchase of this BDE notebook.
+                Listen up papa, you get 1 free NFT with every purchase of this
+                notebook.
               </p>
               <p></p>
               <p>
-                Listen up papa, owning this NFT proves on-chain that you have a
-                huge weenis. Bigger than Lord Vitalik, no cap.
+                Owning this NFT proves on-chain that you have a huge weenis.
+                Bigger than Lord Vitalik, no cap.
               </p>
               <p>Papi senpai, the waifus are gonna love you.</p>
 
