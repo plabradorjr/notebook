@@ -55,7 +55,7 @@ export default class Home extends Component {
             <div className="col-md-4"></div>
 
             <div className="col-md-4 text-gray text-left">
-              <p className="_h1 ">Proof of Huge Weenis</p>
+              <p className="_h1 ">Free NFT</p>
               <p>Introducing SudoCumRocket 💦🚀-{">"}🌙</p>
               <p>
                 Listen up papa, you get 1 free NFT with every purchase of this
@@ -96,13 +96,15 @@ export default class Home extends Component {
               <br></br>
               <p className="_h1">How to receive free NFT?</p>
               <p>
-                After you purchase a notebook, wait for a follow up email asking
-                for an ethereum address. We will then send the NFT to that
-                provided address. We will never ask for you private key or seed
-                phrase. Beware of scammers.
+                Ok champ, after you purchase a notebook, wait for a follow up
+                email asking for an ethereum address. We will then send the NFT
+                to that provided address. We will never ask for you private key
+                or seed phrase. Beware of scammers.
               </p>
               <p className="_h1">How to claim a notebook?</p>
-              <p>Anyone who owns SudoCumRocket NFT can claim a notebook:</p>
+              <p>
+                Fuq yea, anyone who owns SudoCumRocket NFT can claim a notebook:
+              </p>
               <p className="m-0">
                 1. burn 2 NFTs to 0x000000000000000000000000000000000000dead
               </p>
