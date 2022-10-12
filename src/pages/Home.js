@@ -56,7 +56,7 @@ export default class Home extends Component {
 
             <div className="col-md-4 text-gray text-left">
               <p className="_h1 ">Proof of Huge Weenis</p>
-              <p>Introducing SudoCumRocket 💦🚀->🌙</p>
+              <p>Introducing SudoCumRocket 💦🚀-{">"}🌙</p>
               <p>
                 You get 1 free NFT with every purchase of this BDE notebook.
               </p>
