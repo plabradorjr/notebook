@@ -11,13 +11,13 @@ export default class Home extends Component {
         <div className="container-fluid">
           {/* Notebook image section */}
           <div className="row justify-content-center">
-            <div className="col text-center mt-5">
-              <div className="col">
+            <div className="col-md-8 text-center mt-5">
+              <div className="col-12">
                 <img
                   src={notebook}
                   alt="notebook"
                   className="img-fluid"
-                  style={{ "max-width": "35%" }}
+                  style={{ "max-width": "50%", "min-width": "30%" }}
                 />
               </div>
             </div>
@@ -37,7 +37,7 @@ export default class Home extends Component {
           </div>
           {/* anime pic section */}
           <div className="row justify-content-center _bg-pink">
-            <div className="col text-center">
+            <div className="col-md-12 text-center">
               <img
                 src={kgf1}
                 alt="pink hair anime offering free NFT"
