@@ -62,8 +62,8 @@ export default class Home extends Component {
               </p>
               <p></p>
               <p>
-                Owning this NFT proves on-chain that you have a huge weenis.
-                Bigger than Lord Vitalik, no cap.
+                Listen up papa, owning this NFT proves on-chain that you have a
+                huge weenis. Bigger than Lord Vitalik, no cap.
               </p>
               <p>Papi senpai, the waifus are gonna love you.</p>
 
