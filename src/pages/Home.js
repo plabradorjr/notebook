@@ -37,12 +37,12 @@ export default class Home extends Component {
           </div>
           {/* anime pic section */}
           <div className="row justify-content-center _bg-pink">
-            <div className="col-md-12 text-center">
+            <div className="col-md-8 text-center">
               <img
                 src={kgf1}
                 alt="pink hair anime offering free NFT"
                 className="img-fluid"
-                style={{ "max-width": "40%" }}
+                style={{ "max-width": "50%" }}
               ></img>
             </div>
           </div>
