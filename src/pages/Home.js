@@ -13,6 +13,9 @@ export default class Home extends Component {
           <div className="row justify-content-center">
             <div className="col-md-8 text-center mt-5">
               <div className="col-12">
+                <p className="_h1" style={{ "font-size": "25px" }}>
+                  The Greatest Notebook on Earth!
+                </p>
                 <img
                   src={notebook}
                   alt="notebook"
