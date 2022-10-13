@@ -122,6 +122,10 @@ export default class Home extends Component {
                 </a>
               </p>
               <p className="mt-0">3. success!</p>
+              <p className="_h1">Wen notebook arrive?</p>
+              <p>Usually within 2 weeks</p>
+              <p className="_h1">Wer shipping?</p>
+              <p>Worldwide, except the ones with sanctions and shits</p>
             </div>
             <div className="col-md-3">
               <p></p>
