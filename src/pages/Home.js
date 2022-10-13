@@ -55,9 +55,9 @@ export default class Home extends Component {
               <br></br>
               <br></br>
             </div>
-            <div className="col-md-4"></div>
+            <div className="col-md-3"></div>
 
-            <div className="col-md-4 text-gray text-left">
+            <div className="col-md-6 text-gray text-left">
               <p className="_h1 ">Free NFT</p>
               <p>Introducing SudoCumRocket 💦🚀-{">"}🌙</p>
               <p>
@@ -71,7 +71,7 @@ export default class Home extends Component {
               </p>
               <p>Papi senpai, the waifus are gonna love you.</p>
 
-              <div className="col-10 justify-content-center mt-3 mb-3 pl-0">
+              <div className="col-12 justify-content-center mt-3 mb-3 pl-0">
                 <a
                   href="https://sudoswap.xyz/#/browse/buy/0xB2A4951259c4B086Aa0d28764626Eb21f495BEAB"
                   target="_blank"
@@ -92,10 +92,10 @@ export default class Home extends Component {
           </div>
           {/* section 3 how tos */}
           <div className="row">
-            <div className="col-md-4">
+            <div className="col-md-3">
               <p></p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-6">
               <br></br>
               <p className="_h1">How to receive free NFT?</p>
               <p>
@@ -123,7 +123,7 @@ export default class Home extends Component {
               </p>
               <p className="mt-0">3. success!</p>
             </div>
-            <div className="col-md-4">
+            <div className="col-md-3">
               <p></p>
             </div>
           </div>
